@@ -1,0 +1,12 @@
+"TailNum","noOfFlights","type","manufacturer","issue_date","model","status","aircraft_type","engine_type","year"
+"N308SW",5391,"Corporation","EMBRAER","12/05/2005","EMB-120ER","Valid","Fixed Wing Multi-Engine","Turbo-Prop","1997"
+"N308SW",5351,"Corporation","EMBRAER","12/05/2005","EMB-120ER","Valid","Fixed Wing Multi-Engine","Turbo-Prop","1997"
+"N308SW",4734,"Corporation","EMBRAER","12/05/2005","EMB-120ER","Valid","Fixed Wing Multi-Engine","Turbo-Prop","1997"
+"UNKNOW",4483,NA,NA,NA,NA,NA,NA,NA,NA
+"N655BR",4483,"Corporation","BOMBARDIER INC","12/19/2000","CL-600-2B19","Valid","Fixed Wing Multi-Engine","Turbo-Fan","2000"
+"N479HA",4359,"Corporation","BOEING","06/22/2001","717-200","Valid","Fixed Wing Multi-Engine","Turbo-Fan","2001"
+"N651BR",4346,"Corporation","BOMBARDIER INC","09/14/2000","CL-600-2B19","Valid","Fixed Wing Multi-Engine","Turbo-Fan","2000"
+"N478HA",4316,"Corporation","BOEING","05/25/2001","717-200","Valid","Fixed Wing Multi-Engine","Turbo-Fan","2001"
+"N654BR",4278,"Corporation","BOMBARDIER INC","11/30/2000","CL-600-2B19","Valid","Fixed Wing Multi-Engine","Turbo-Fan","2000"
+"N480HA",4225,"Corporation","BOEING","06/29/2001","717-200","Valid","Fixed Wing Multi-Engine","Turbo-Fan","2001"
+"N485HA",4203,"Corporation","BOEING","10/30/2001","717-200","Valid","Fixed Wing Multi-Engine","Turbo-Fan","2001"
